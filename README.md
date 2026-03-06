@@ -1,6 +1,6 @@
-============================================================
+
                      MapManager v1.0
-============================================================
+
 Smart Asset Management & Scene Optimization for 3ds Max
 
 Developed by Vladislav Sorokach
@@ -84,7 +84,3 @@ Email: 11paradize11@gmail.com
 Web: www.paradizerender.com
 
 Check my other tools www.paradizerender.com/plugins
-
-============================================================
-        THANK YOU FOR CHOOSING PARADIZE RENDER TOOLS!
-============================================================
