@@ -1,7 +1,7 @@
 
                      MapManager v1.0
 
-Smart Asset Management & Scene Optimization for 3ds Max
+Smart Asset Management & Scene Optimization for 3dsMax
 
 Developed by Vladislav Sorokach
 Website: www.paradizerender.com
